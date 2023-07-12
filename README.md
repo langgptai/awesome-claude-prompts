@@ -359,6 +359,15 @@ Version: 2.6.2
 execute <Init>
 ```
 
+## Write Tweets Like You
+
+1) Load a PDF of all your best tweets
+2) Tell Claude to copy your writing style
+
+```
+Write 3 tweets on [Theme] in the style of [upload_file_name]
+```
+
 ## Analyze Top Companies Using Claude
 ```
 Analyze a successful individual or company in [industry] and identify the key factors and decisions that drove their triumph. Leverage these insights to find solution for [situation/decision].
