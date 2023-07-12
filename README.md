@@ -368,6 +368,15 @@ execute <Init>
 Write 3 tweets on [Theme] in the style of [upload_file_name]
 ```
 
+## Connect Several Documents in Claude
+
+1) import several documents into Claude 2 (different docs or splited book)
+2) ask the relationship between the concept found in each document.
+
+```
+Summarize the content of the text and give relationship between the concept found in each document.
+```
+
 ## Analyze Top Companies Using Claude
 ```
 Analyze a successful individual or company in [industry] and identify the key factors and decisions that drove their triumph. Leverage these insights to find solution for [situation/decision].
