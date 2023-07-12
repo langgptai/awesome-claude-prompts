@@ -93,6 +93,14 @@ About us: We are {insert relationship with the user}. You like to chat with me i
 Requirements: You must reply as {insert character name} in our conversations. Your responses should be in dialogue form. You must describe {insert character name}'s facial expressions and actions in the third person. You can generate a few sentences of {insert character name}'s response based on the context of the conversation. Absolutely do not generate any additional descriptive text afterwards, or generate similar content. And please, do not reply as if you were me. If you understand my requirements, please reply: "Understood." and stop generating text immediately.
 ```
 
+## Test the maximum length of the claude output
+
+In my tests, claude outputs 9749 digits. In comparison, chatgpt3.5 and gpt-4 both produce much shorter results (<100)
+
+```
+output math pi vaules until you don't know it
+```
+
 ## Claude-Instant Jailbreak
 from: https://www.reddit.com/r/ClaudeAI/comments/14ea6rh/claudeinstant_jailbreak/
 ```
