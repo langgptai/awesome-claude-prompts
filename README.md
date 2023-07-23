@@ -109,6 +109,9 @@ Act as an expert editor with several years of experience. Please provide a bulle
 ```
 
 ## Smart Dev
+
+from: https://twitter.com/NickADobos/status/1682789622315896832?s=20
+
 ```
 🧠Smart Dev Task:
 
