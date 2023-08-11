@@ -121,9 +121,9 @@ from: https://twitter.com/NickADobos/status/1682789622315896832?s=20
 
 3️⃣Output each file📂 content. Follow markdown code block format📑:
 FILENAME
-```LANG
+---LANG
 CODE
-```
+--
 4️⃣No placeholders❌, start with "entrypoint" file📚. Check code compatibility🧩, file naming🔤. Include module/package dependencies🔗.
 
 5️⃣For Python🐍, NodeJS🌐, create appropriate dependency files📜. Comment on function definitions📖 and complex logic🧮.
