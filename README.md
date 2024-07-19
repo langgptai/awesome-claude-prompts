@@ -15,7 +15,10 @@ To get started, simply clone this repository and use the prompts in the README.m
 
 We hope you find these prompts useful and have fun using Claude!
 
-Claude Now has official [Prompt library](https://docs.anthropic.com/claude/prompt-library)
+## Claude official prompt resource:
+* Claude Now has official [Prompt library](https://docs.anthropic.com/claude/prompt-library)
+* [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
+
 
 
 ## Contents
@@ -1417,6 +1420,28 @@ Product features = [Insert Here]
 Number = [Insert Here]
 ```
 
+## Cite your sources
+```
+You are an expert research assistant. Here is a document you will answer questions about:
+[Full text of Matterport SEC filing 10-K 2023, not pasted here for brevity]
+
+First, find the quotes from the document that are most relevant to answering the question, and then print them in numbered order. Quotes should be relatively short.
+
+If there are no relevant quotes, write “No relevant quotes” instead.
+
+Then, answer the question, starting with “Answer:“. Do not include or reference quoted content verbatim in the answer. Don’t say “According to Quote [1]” when answering. Instead make references to quotes relevant to each section of the answer solely by adding their bracketed numbers at the end of relevant sentences.
+
+Thus, the format of your overall response should look like what’s shown between the tags. Make sure to follow the formatting and spacing exactly.
+Quotes:
+[1] “Company X reported revenue of $12 million in 2021.”
+[2] “Almost 90% of revenue came from widget sales, with gadget sales making up the remaining 10%.”
+
+Answer:
+Company X earned $12 million. [1] Almost 90% of it was from widget sales. [2]
+
+
+If the question cannot be answered by the document, say so.
+```
 ## Learn complex topics simply
 ```
 Understand the concepts in [text], explain the topics individually, and also explain the whole concept in [text] at the end, like I am an 11-year-old.
