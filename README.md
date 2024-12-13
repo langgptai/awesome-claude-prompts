@@ -174,7 +174,7 @@ We hope you find these prompts useful and have fun using Claude!
 
 ## 任务
 生成 react 代码简历，参考下面的代码：
-```
+---
 import React from 'react';
 import { Star, Mail, Phone, MessageCircle, Award, Briefcase, GraduationCap, Github, Linkedin } from 'lucide-react';
 
@@ -363,7 +363,7 @@ const A4Resume = () => {
 };
 
 export default A4Resume;
-```
+---
 
 ## 技术实现
 - React框架（import React from 'react';
