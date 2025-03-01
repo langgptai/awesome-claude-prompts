@@ -77,7 +77,7 @@ We hope you find these prompts useful and have fun using Claude!
 - [Translate ad copy into other languages](#translate-ad-copy-into-other-languages)
 - [Write update emails about a project using AI](#write-update-emails-about-a-project-using-ai)
 - [Upsell using email marketing](#upsell-using-email-marketing)
-- [Get more refferals using AI ideas](#get-more-refferals-using-ai-ideas)
+- [Get more referrals using AI ideas](#get-more-referrals-using-ai-ideas)
 - [Answer product objections and win customers using AI](#answer-product-objections-and-win-customers-using-ai)
 - [Get best meta descriptions for your website](#get-best-meta-descriptions-for-your-website)
 - [Generate long tail keywords for your website](#generate-long-tail-keywords-for-your-website)
@@ -1827,7 +1827,7 @@ Business = [Insert Here]
 Product line = [Insert Here]
 ```
 
-## Get more refferals using AI ideas
+## Get more referrals using AI ideas
 ```
 Analyze [product] and generate 10 unique ideas on how to encourage customers to refer others. The ideas should focus on adding value to existing customers as a reward for their referrals.
 
