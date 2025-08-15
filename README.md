@@ -3,6 +3,8 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 [![Code License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/yzfly/awesome-chatgpt-zh/blob/main/LICENSE)
 
+- Author: yzfly / 云中江树
+
 Welcome to the "Awesome Claude Prompts" repository! This is a collection of prompt examples to be used with the Claude model.
 
 The [Claude](https://claude.ai/) model is an AI assistant created by [Anthropic](https://anthropic.com/) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt. 
@@ -22,6 +24,7 @@ We hope you find these prompts useful and have fun using Claude!
 
 
 ## Contents
+- [Claude Code Coding Prompt](claudecode/LinusTorvalds.md)
 - [Summarize this PDF document (official example)](#summarize-this-pdf-document-official-example)
 - [Explain Python Code (official example)](#explain-python-code-official-example)
 - [Practice Spanish Vocab (official example)](#practice-spanish-vocab-official-example)
@@ -153,6 +156,7 @@ We hope you find these prompts useful and have fun using Claude!
 - [Simulate A Job Interview](#simulate-a-job-interview)
 - [Learn a new topic using AI](#learn-a-new-topic-using-ai)
 - [Use Claude to answer frequently asked questions](#use-claude-to-answer-frequently-asked-questions)
+
 
 ## AI Resume（with Claude Artifacts)
 ![alt text](imgs/ai_resume.png)
