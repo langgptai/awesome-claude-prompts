@@ -1,0 +1,1 @@
+This is the mock output for task create_tdd.

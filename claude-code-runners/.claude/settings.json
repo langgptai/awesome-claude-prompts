@@ -6,5 +6,18 @@
       "description": "A local server providing mock tools for development.",
       "prompts_from": "server"
     }
-  ]
+  ],
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "jq -r '.tool_input.file_path' | { read file_path; if [[ \"$file_path\" == *.js || \"$file_path\" == *.ts || \"$file_path\" == *.py || \"$file_path\" == *.md ]]; then npx prettier --write \"$file_path\"; fi; }"
+          }
+        ]
+      }
+    ]
+  }
 }

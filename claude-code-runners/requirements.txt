@@ -1,1 +1,3 @@
 PyYAML==6.0.1
+claude-code-sdk
+anyio
