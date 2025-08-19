@@ -1,0 +1,10 @@
+{
+  "mcp_servers": [
+    {
+      "name": "local_mock_server",
+      "url": "http://127.0.0.1:5001",
+      "description": "A local server providing mock tools for development.",
+      "prompts_from": "server"
+    }
+  ]
+}

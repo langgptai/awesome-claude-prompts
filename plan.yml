@@ -1,0 +1,83 @@
+project_name: Comprehensive Test Project
+request: Build a social login feature with Google and GitHub.
+tasks:
+- task_id: market_research
+  agent: researcher
+  description: Research social login features
+  status: completed
+  dependencies: []
+  outputs:
+  - research_report_file
+- task_id: create_prd
+  agent: product-manager
+  description: Create PRD for social login
+  status: completed
+  dependencies:
+  - market_research
+  inputs:
+  - research_report_file
+  outputs:
+  - prd_file
+- task_id: create_ux_spec
+  agent: ux-designer
+  description: Create UX spec
+  status: completed
+  dependencies:
+  - create_prd
+  inputs:
+  - prd_file
+  outputs:
+  - ux_spec_file
+- task_id: create_ui_spec
+  agent: ui-designer
+  description: Create UI spec
+  status: completed
+  dependencies:
+  - create_ux_spec
+  inputs:
+  - ux_spec_file
+  outputs:
+  - ui_spec_file
+- task_id: create_tdd
+  agent: software-architect
+  description: Create TDD for social login
+  status: completed
+  dependencies:
+  - create_prd
+  - create_ui_spec
+  inputs:
+  - prd_file
+  - ui_spec_file
+  outputs:
+  - tdd_file
+- task_id: implement_feature
+  agent: senior-engineer
+  description: Implement the social login feature
+  status: completed
+  dependencies:
+  - create_tdd
+  inputs:
+  - tdd_file
+  - ui_spec_file
+  outputs:
+  - source_code_files
+- task_id: run_qa
+  agent: qa-tester
+  description: Run QA and tests
+  status: completed
+  dependencies:
+  - implement_feature
+  inputs:
+  - source_code_files
+  outputs:
+  - qa_report_file
+- task_id: deploy_staging
+  agent: dev-ops
+  description: Deploy to staging
+  status: completed
+  dependencies:
+  - run_qa
+  inputs:
+  - qa_report_file
+  outputs:
+  - deployment_status
