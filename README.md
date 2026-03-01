@@ -21,6 +21,7 @@ We hope you find these prompts useful and have fun using Claude!
 * Claude Now has official [Prompt library](https://docs.anthropic.com/claude/prompt-library)
 * [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
 * [Claudebin](https://claudebin.com) ([GitHub](https://github.com/wunderlabs-dev/claudebin.com/)) - A minimalistic tool for publishing and sharing Claude coding sessions
+* [OpenPaw](https://github.com/daxaur/openpaw) - A setup wizard that turns Claude Code into a personal assistant with 38 skills including Telegram bridge, task dashboard, and scheduling
 
 
 
