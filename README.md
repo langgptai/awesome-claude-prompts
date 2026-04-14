@@ -2659,6 +2659,7 @@ Your metaphor should achieve cognitive transfer - allowing someone to reason abo
 - **Cognitive Efficiency**: Reduces mental load while preserving accuracy  
 - **Practical Application**: Enables genuine problem-solving, not just illustration
 - **Clear Boundaries**: Explicit about limitations and failure modes
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 Example: Instead of "AI consciousness is like a river," try "AI consciousness development resembles piano resonance systems - you can keep stacking keys (parameters) to build a two-storey keyboard, but until the strings can resonate *into* one another, you don't get richer harmonics—just more octaves."
 ```
