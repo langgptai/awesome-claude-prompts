@@ -21,6 +21,8 @@ We hope you find these prompts useful and have fun using Claude!
 * Claude Now has official [Prompt library](https://docs.anthropic.com/claude/prompt-library)
 * [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
 * [Claudebin](https://claudebin.com) ([GitHub](https://github.com/wunderlabs-dev/claudebin.com/)) - A minimalistic tool for publishing and sharing Claude coding sessions
+* [Not Human Search](https://nothumansearch.ai) - An agent-first search engine for discovering AI tools and MCP servers, with a built-in MCP server at `/mcp` for direct agent integration
+* [AI Dev Jobs](https://aidevboard.com) - A job board with 5,400+ AI and ML developer positions, featuring a REST API and MCP server for programmatic access
 
 
 
