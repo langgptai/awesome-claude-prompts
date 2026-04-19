@@ -19,6 +19,7 @@ We hope you find these prompts useful and have fun using Claude!
 
 ## Claude official prompt resource:
 * Claude Now has official [Prompt library](https://docs.anthropic.com/claude/prompt-library)
+- **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 * [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
 * [Claudebin](https://claudebin.com) ([GitHub](https://github.com/wunderlabs-dev/claudebin.com/)) - A minimalistic tool for publishing and sharing Claude coding sessions
 
@@ -26,6 +27,7 @@ We hope you find these prompts useful and have fun using Claude!
 
 ## Contents
 - [Claude Code Coding Prompt](claudecode/LinusTorvalds.md)
+- **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 - [Summarize this PDF document (official example)](#summarize-this-pdf-document-official-example)
 - [Explain Python Code (official example)](#explain-python-code-official-example)
 - [Practice Spanish Vocab (official example)](#practice-spanish-vocab-official-example)
