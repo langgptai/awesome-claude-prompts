@@ -180,6 +180,8 @@ We hope you find these prompts useful and have fun using Claude!
 
 ## 任务
 生成 react 代码简历，参考下面的代码：
+${ASB}
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 ---
 import React from 'react';
 import { Star, Mail, Phone, MessageCircle, Award, Briefcase, GraduationCap, Github, Linkedin } from 'lucide-react';
