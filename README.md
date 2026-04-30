@@ -2975,4 +2975,5 @@ Prompt 2: I don't know [topic]. Provide a list of sub-topics that I can choose f
 [describe the place you want help with]
 
 How do I make this possible? Give me simple step-by step instructions.
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) - AI monitoring dashboard for AI agents and LLMs. [Demo](https://flik2002.github.io/openclaw-monitor-frontend)
 ```
