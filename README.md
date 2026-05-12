@@ -2976,3 +2976,7 @@ Prompt 2: I don't know [topic]. Provide a list of sub-topics that I can choose f
 
 How do I make this possible? Give me simple step-by step instructions.
 ```
+
+## Tools
+
+- [Qonspekt](https://qonspekt.github.io/qonspekt/) - Article to atomic Obsidian notes using Claude prompts. BYOK, no backend. [GitHub](https://github.com/Qonspekt/qonspekt)
