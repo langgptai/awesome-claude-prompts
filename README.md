@@ -21,6 +21,7 @@ We hope you find these prompts useful and have fun using Claude!
 * Claude Now has official [Prompt library](https://docs.anthropic.com/claude/prompt-library)
 * [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
 * [Claudebin](https://claudebin.com) ([GitHub](https://github.com/wunderlabs-dev/claudebin.com/)) - A minimalistic tool for publishing and sharing Claude coding sessions
+* [vibeprompt](https://vibeprompt.tech) ([GitHub](https://github.com/dotsystemsdevs/vibe-prompt)) - 56 battle-tested prompts for Claude Code, Cursor, and Windsurf, grouped by a 10-step vibe coding workflow. Includes interactive AGENTS.md + PRD generator, 17 deep-dive articles, and 46 field-tested fixes. Free, MIT licensed.
 
 
 
