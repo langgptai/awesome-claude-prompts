@@ -26,6 +26,9 @@ We hope you find these prompts useful and have fun using Claude!
 
 ## Contents
 - [Claude Code Coding Prompt](claudecode/LinusTorvalds.md)
+- [SoloShip Captain - Solo Founder Shipping Coach](claudecode/SoloShipCaptain.md)
+- [Debug Detective - Systematic Debugging Workflow](claudecode/DebugDetective.md)
+- [API Design Reviewer - Developer Experience Audit](claudecode/APIDesignReviewer.md)
 - [Summarize this PDF document (official example)](#summarize-this-pdf-document-official-example)
 - [Explain Python Code (official example)](#explain-python-code-official-example)
 - [Practice Spanish Vocab (official example)](#practice-spanish-vocab-official-example)
