@@ -2976,3 +2976,4 @@ Prompt 2: I don't know [topic]. Provide a list of sub-topics that I can choose f
 
 How do I make this possible? Give me simple step-by step instructions.
 ```
+- [Skill Hub](https://skill.442595.xyz/) - AI Agent Skills 分类导航站，2600+ skills，多平台兼容
