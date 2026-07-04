@@ -395,6 +395,7 @@ import { Star, Mail, Phone, MessageCircle, Award, Briefcase, GraduationCap } fro
 ```
 
 ## system prompt and tools from claude code
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts: 4 Markdown templates + 5 Claude Code skills (crm-everything, open-loops, watchers, morning-briefing, session-digest). Start every session context-full, not context-zero. MIT, one-command install.
 
 > from: https://github.com/Aider-AI/aider/issues/3362#issuecomment-2686026303
 ```
