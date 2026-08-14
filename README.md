@@ -25,6 +25,8 @@ We hope you find these prompts useful and have fun using Claude!
 
 
 ## Contents
+
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Shake your cursor to summon an AI agent that sees your screen and clicks, types, drags, and acts for you on macOS. Open-source, MIT.
 - [Claude Code Coding Prompt](claudecode/LinusTorvalds.md)
 - [Summarize this PDF document (official example)](#summarize-this-pdf-document-official-example)
 - [Explain Python Code (official example)](#explain-python-code-official-example)
