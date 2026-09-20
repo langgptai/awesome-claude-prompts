@@ -18,6 +18,7 @@ To get started, simply clone this repository and use the prompts in the README.m
 We hope you find these prompts useful and have fun using Claude!
 
 ## Claude official prompt resource:
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — a tool for recording and replaying AI agent runs.
 * Claude Now has official [Prompt library](https://docs.anthropic.com/claude/prompt-library)
 * [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
 * [Claudebin](https://claudebin.com) ([GitHub](https://github.com/wunderlabs-dev/claudebin.com/)) - A minimalistic tool for publishing and sharing Claude coding sessions
