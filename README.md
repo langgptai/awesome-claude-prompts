@@ -170,6 +170,7 @@ We hope you find these prompts useful and have fun using Claude!
 - [Learn a new topic using AI](#learn-a-new-topic-using-ai)
 - [Use Claude to answer frequently asked questions](#use-claude-to-answer-frequently-asked-questions)
 - [Custom AI Operating System for a Small Business](#custom-ai-operating-system-for-a-small-business)
+- [Chase a Late Invoice (Three-Step Reminders)](#chase-a-late-invoice-three-step-reminders)
 
 
 ## AI Resume（with Claude Artifacts)
@@ -3038,3 +3039,23 @@ Operate as a senior, trusted employee who has memorized the profile above. For e
 Begin every response by silently checking the profile above. Never paste the profile back at the owner.
 ```
 Source / inspiration: this is the simplified, public version of the master operator prompt that ships inside a [CLAWVR](https://clawvr.com) AI Operating System. The full version is generated from a 3-minute intake and bundles 18 industry-specific superprompts (insurance verification, reactivation, no-show recovery, etc.), a 30-day deployment roadmap, and an ROI projection.
+
+## Chase a Late Invoice (Three-Step Reminders)
+Three short prompts for a small business or tradesperson chasing an unpaid invoice, from a friendly nudge to a final notice. Fill in the [brackets], use one step at a time, and check the draft before sending (amounts, dates and anything legal). Leave out customer names, addresses and bank details; use placeholders.
+
+Step 1, first reminder:
+```
+Write a friendly reminder for invoice [number] for [£X], which was due on [date]. Assume it's an oversight. Include how to pay.
+```
+
+Step 2, firmer reminder:
+```
+Write a second reminder for invoice [number], now [X] days overdue. Polite but firm, ask for payment by [date], and mention that we may add late payment interest.
+```
+
+Step 3, final notice:
+```
+Write a final notice for invoice [number], [X] days overdue, before I take further action. Professional, no threats, state the next step clearly: [next step].
+```
+
+Source: [The AI Till prompts](https://theaitill.com/prompts/) (free, no sign-up). In the UK, business-to-business late payment interest is 8% plus the Bank of England base rate ([GOV.UK](https://www.gov.uk/late-commercial-payments-interest-debt-recovery/charging-interest-commercial-debt)).
