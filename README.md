@@ -33,6 +33,7 @@ We hope you find these prompts useful and have fun using Claude!
 * [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - records a Claude Code session (prompts, tool calls, responses) to a local trace and replays it offline; ships a Claude-compatible skill and an `orca mcp` server for inspecting runs
 * [Awesome Opus 5.5 Video Prompts](https://github.com/eastling/awesome-opus-5.5-video-prompts) - 90 curated prompts people used to make videos with Claude Opus 5.5 (motion graphics, launch films, explainers, 3D, games), each linked to the video it produced
 * [Happy AI Opus 5.5 Video Prompts](https://github.com/wutuobangai/happy-ai-opus55-video-prompts) - Chinese-language selection of 30 attributed video prompts with preview GIFs, linked to a free gallery of 927 cases.
+* [Awesome Opus Video Prompts — Leadde Open Lab](https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts) - Claude animation examples with published prompts, creator sources, and a searchable English/Chinese preview gallery.
 
 ## Contents
 - [Claude Code Coding Prompt](claudecode/LinusTorvalds.md)
