@@ -177,6 +177,7 @@ We hope you find these prompts useful and have fun using Claude!
 - [Use Claude to answer frequently asked questions](#use-claude-to-answer-frequently-asked-questions)
 - [Custom AI Operating System for a Small Business](#custom-ai-operating-system-for-a-small-business)
 - [Chase a Late Invoice (Three-Step Reminders)](#chase-a-late-invoice-three-step-reminders)
+- [Summarize Long Email Threads (10 prompts)](#summarize-long-email-threads-10-prompts)
 
 
 ## AI Resume（with Claude Artifacts)
@@ -3065,3 +3066,58 @@ Write a final notice for invoice [number], [X] days overdue, before I take furth
 ```
 
 Source: [The AI Till prompts](https://theaitill.com/prompts/) (free, no sign-up). In the UK, business-to-business late payment interest is 8% plus the Bank of England base rate ([GOV.UK](https://www.gov.uk/late-commercial-payments-interest-debt-recovery/charging-interest-commercial-debt)).
+
+## Summarize Long Email Threads (10 prompts)
+Paste the prompt, then the full thread below it (Gmail: Print all and copy the text; Outlook: expand all messages first). Add "Answer in [language]" for another language. Remove anything confidential first.
+
+1. Executive summary:
+```
+Summarize this email thread in 5 bullet points: the main question, what was decided, open issues, who is responsible for what, and the next deadline.
+```
+
+2. Action items:
+```
+List every action item in this email thread as a table with the columns Task, Owner, Due date. Write TBD if no date was given. Only include tasks someone agreed to do.
+```
+
+3. My next steps:
+```
+I am [your name]. From this email thread, list only the actions I am responsible for, with deadlines, and anything I still need to reply to.
+```
+
+4. Catch-up briefing (you were just added):
+```
+I was not on this thread. Explain in 3 sentences what happened, where people disagreed, and how it was resolved.
+```
+
+5. Email by email:
+```
+Summarize each email in this thread on its own. For every email, give the date as Month DD, YYYY, the sender's name, the recipients' names, a one line summary, and the key points. Keep them in date order.
+```
+
+6. Open questions:
+```
+List every question in this thread that still needs an answer. Quote each question exactly. Add who asked it and when.
+```
+
+7. Reply to their questions:
+```
+Pull out the exact questions [name or company] asked in this thread. For each one, quote the question, then draft a short answer based only on what the thread says. Write [needs input] where the thread has no answer.
+```
+
+8. Decision log:
+```
+List every decision made in this thread. For each, give the decision in one sentence, who made or approved it, the date, and any alternatives that were rejected.
+```
+
+9. Dates and deadlines:
+```
+List every date, deadline, and event mentioned in these emails as a table with the columns Date, What, Action needed, Source email. Sort by date and mark anything due in the next 7 days.
+```
+
+10. Weekly digest (several emails at once):
+```
+Here are my emails from the past week. Group them by sender or topic, give each group a 2-line summary, then list every request as a table with the columns Request, Who asked, Date received, Due date.
+```
+
+Source: [Email Thread Prompt Pack](https://mail2action.com/summarize-email-threads) by Mail2Action, CC BY 4.0.
