@@ -1632,6 +1632,14 @@ CODE
 2️⃣Output file📂 content, follow markdown code block📑, ensure full functionality🔨.
 ```
 
+## Tour Routing & Venue Lookup (with MCP)
+
+Use Claude with the [No Stairs Please MCP](https://nostairsplease.com/mcp) endpoint ([venue directory](https://nostairsplease.com/venues)) to plan a regional DIY tour:
+
+```text
+Using the No Stairs Please MCP (https://nostairsplease.com/mcp), find 50-300 capacity live-music rooms between Denver, CO and Kansas City, MO with booking contacts and load-in notes.
+```
+
 ## Prompts For Github Project 
 Provide the name of the open source project in [project name].
 
