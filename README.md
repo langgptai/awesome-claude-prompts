@@ -38,6 +38,7 @@ We hope you find these prompts useful and have fun using Claude!
 * [Happy AI Opus 5.5 Video Prompts](https://github.com/wutuobangai/happy-ai-opus55-video-prompts) - Chinese-language selection of 30 attributed video prompts with preview GIFs, linked to a free gallery of 927 cases.
 * [Awesome Opus Video Prompts — Leadde Open Lab](https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts) - Claude animation examples with published prompts, creator sources, and a searchable English/Chinese preview gallery.
 * [Most Capable Agent System Prompt](https://github.com/fainir/most-capable-agent-system-prompt) - copy-paste system prompt that has Claude Code (or Codex, Cursor) build a durable, file-based agent system for general computer work: task graphs, verification before "done", file memory, evals, approvals and a self-improvement loop
+* [UiChemy AI Website Prompts](https://uichemy.com/ai-to-wordpress/ai-website-prompts/?utm_source=github&utm_medium=referral&utm_campaign=prompts-partners&utm_content=awesome-claude-prompts) - 63 copy-paste prompts that have Claude build a complete website (by industry and style), which UiChemy then imports as native, editable WordPress. Free to copy; Pro prompts need a free UiChemy account.
 
 ## Contents
 - [Claude Code Coding Prompt](claudecode/LinusTorvalds.md)
