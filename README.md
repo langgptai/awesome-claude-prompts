@@ -38,6 +38,7 @@ We hope you find these prompts useful and have fun using Claude!
 * [Happy AI Opus 5.5 Video Prompts](https://github.com/wutuobangai/happy-ai-opus55-video-prompts) - Chinese-language selection of 30 attributed video prompts with preview GIFs, linked to a free gallery of 927 cases.
 * [Awesome Opus Video Prompts — Leadde Open Lab](https://github.com/LeaddeOpenLab/awesome-opus-5-5-video-prompts) - Claude animation examples with published prompts, creator sources, and a searchable English/Chinese preview gallery.
 * [Most Capable Agent System Prompt](https://github.com/fainir/most-capable-agent-system-prompt) - copy-paste system prompt that has Claude Code (or Codex, Cursor) build a durable, file-based agent system for general computer work: task graphs, verification before "done", file memory, evals, approvals and a self-improvement loop
+* [OmniForge Agent Skills](https://github.com/zColdWater/omniforge-skills) - 50 zero-dependency `SKILL.md` pre-launch audit skills (MIT) for Claude Code, Cursor, Codex & Gemini CLI covering Supabase/Firebase RLS, Next.js `CVE-2025-29927`, leaked secrets, CSP/HSTS headers, SPF/DKIM/DMARC email DNS, 78-TLD domains & `/llms.txt`, paired with an interactive [Vibe-Coding Security Fix Prompt Cheat Sheet](https://zcoldwater.github.io/omniforge-skills/vibecoding-security-cheat-sheet-2026.html) and read-only `mcp-launch-audit` MCP server
 
 ## Contents
 - [Claude Code Coding Prompt](claudecode/LinusTorvalds.md)
